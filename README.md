@@ -1,7 +1,7 @@
 # Java-Trie
 Java-Trie is a java implementation of the **trie** data structure and **Trie HashMap**, with multiple features, few of them:
 - Effecint trie implementation, allowing you to store strings, effecienty retrieve strings starting with a specified prefix (ex: for autocompletion).
--  effecient hashmap, utilizing the trie data structure.
+- Effecient hashmap, utilizing the trie data structure.
 - The possibility to get a sub-trie of the trie as a dependent trie. Where you can preform tasks you need.
 - Three different subnodes storage schemes, to meet your needs. One for optimizing execution time, one for optimizing memory and the last for balancing execution time and memory usage. You can easilt choose between them using the ***TrieFactory*** class.
 
