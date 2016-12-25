@@ -8,7 +8,7 @@ import java.util.TreeMap;
 import javafx.util.Pair;
 
 /**
- * A TrieEntry is a node in the trie tree. It contains a key (chat), value and references to all of its
+ * A TrieEntry is a node in the trie tree. It contains a key (char), value and references to all of its
  * children
  * @author doried abd-allah
  * @param <T> Class type of the value to be stored in the trie
